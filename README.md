@@ -8,4 +8,4 @@ Customer Retention & Churn Analysis
   Customer retention and churn analysis reveals why users leave and when they are most likely to exit. By identifying high-risk segments and behavioral triggers, you can transition from reactive fixes to proactive engagement. This data-driven approach minimizes acquisition costs, maximizes lifetime value, and secures a stable revenue foundation for growth.
 * Tools
   ---
-Python, Pandas, Matplotlib, Seaborn
+  Python, Pandas, Matplotlib, Seaborn
